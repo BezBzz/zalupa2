@@ -15,5 +15,5 @@ install:
 build_script:
   - ./gradlew test --info  # запускаем тест, флаг --info позволяет выводить больше информации
   - chmod +x gradlew
-  © 2022 GitHub, Inc.
-  Terms
+
+
