@@ -8,5 +8,6 @@ build: off  # будем использовать свой скрипт сбор
 
 build_script:
   - ./gradlew build
+  - chmod +x gradlew
   © 2022 GitHub, Inc.
   Terms
